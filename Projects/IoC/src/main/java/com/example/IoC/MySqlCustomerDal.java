@@ -1,0 +1,10 @@
+package com.example.IoC;
+
+public class MySqlCustomerDal implements ICustomerDal{
+
+    @Override
+    public void add() {
+        System.out.println("added to My Sql database.");
+    }
+    
+}
