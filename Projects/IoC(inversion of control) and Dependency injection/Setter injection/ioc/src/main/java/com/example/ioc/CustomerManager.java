@@ -11,7 +11,7 @@ public class CustomerManager implements ICustomerService{
         this.customerDal = customerDal;
     }
     */
-
+    //Setter injection
     public void setCustomerDal(ICustomerDal customerDal) {
         this.customerDal = customerDal;
     }
