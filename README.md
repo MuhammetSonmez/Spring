@@ -15,7 +15,7 @@ This guide repository includes guides and examples covering various topics relat
    - Spring Bean Management
 
 3. Web Application Development
-   - RESTful API design
+   - Spring Rest
    - Database operations
 
 ## How to Contribute?
