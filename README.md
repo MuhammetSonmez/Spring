@@ -1,14 +1,35 @@
-# Spring Design Patterns
+# Java Spring Guide
 
-This GitHub repository contains various design patterns used in the Spring framework. Each design pattern example is located in separate project directories. The purpose of this repo is to provide practical information to other developers on how to implement design patterns and facilitate their usage in their own projects.
+This project is a guide repository containing guides and examples related to the Java Spring framework. Its purpose is to provide clear explanations of Java Spring for beginners and offer practical examples for developers.
 
-## Each Example Project
+## Contents
 
-Each example project directory is a Maven project that includes a Spring component implementing the relevant design pattern. By entering the project directories, you can examine the corresponding 'README.md' files and see how we applied the patterns
+This guide repository includes guides and examples covering various topics related to Java Spring:
 
+1. Introduction and Setup
+   - Managing dependencies
+   - Basic Spring configuration
 
-## How to Use?
+2. Spring Fundamentals
+   - IoC (Inversion of Control) and DI (Dependency Injection)
+   - Spring Bean Management
 
-To use these design patterns, navigate to each project directory and clone the project locally. Then, you can run the project in your development environment, inspect the code, and modify it as desired.
+3. Web Application Development
+   - RESTful API design
+   - Database operations
 
+## How to Contribute?
 
+If you wish to contribute to this guide repository, you can follow the steps below:
+
+1. Fork this repository to your own GitHub account.
+
+2. Identify a topic you want to make changes to or suggest a new topic to add.
+
+3. Create a new branch to make your changes.
+
+4. Add your changes to this new branch and write a descriptive commit message.
+
+5. Create a "pull request" with the changes you made.
+
+6. After review, we can integrate your changes into the main project.
