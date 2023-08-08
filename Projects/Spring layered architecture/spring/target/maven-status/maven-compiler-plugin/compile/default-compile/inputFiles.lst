@@ -1,0 +1,7 @@
+C:\Spring\Projects\Spring layered architecture\spring\src\main\java\com\example\spring\DataAccess\ICityDal.java
+C:\Spring\Projects\Spring layered architecture\spring\src\main\java\com\example\spring\Application.java
+C:\Spring\Projects\Spring layered architecture\spring\src\main\java\com\example\spring\Entities\City.java
+C:\Spring\Projects\Spring layered architecture\spring\src\main\java\com\example\spring\restApi\CityController.java
+C:\Spring\Projects\Spring layered architecture\spring\src\main\java\com\example\spring\Business\ICityService.java
+C:\Spring\Projects\Spring layered architecture\spring\src\main\java\com\example\spring\Business\CityManager.java
+C:\Spring\Projects\Spring layered architecture\spring\src\main\java\com\example\spring\DataAccess\HibernateCityDal.java
